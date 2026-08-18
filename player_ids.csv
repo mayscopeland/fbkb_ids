@@ -24,13 +24,13 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1711,Jaylen Brown,5602,Jaylen Brown,3917376,Jaylen Brown,2202365,Jaylen Brown,10090,Jaylen Brown,'03lls,Jaylen Brown,1627759
 1054,Kyrie Irving,4840,Kyrie Irving,6442,Kyrie Irving,1779901,Kyrie Irving,9157,Kyrie Irving,'027oj,Kyrie Irving,202681
 1872,De'Aaron Fox,5767,De'Aaron Fox,4066259,De'Aaron Fox,2355019,De'Aaron Fox,13732,De'Aaron Fox,'049kb,DeAaron Fox,1628368
-1000,Jimmy Butler III,4912,Jimmy Butler III,6430,Jimmy Butler III,1646703,Jimmy Butler,9152,Jimmy Butler,'027pe,Jimmy Butler,202710
+1000,Jimmy Butler,4912,Jimmy Butler III,6430,Jimmy Butler III,1646703,Jimmy Butler,9152,Jimmy Butler,'027pe,Jimmy Butler,202710
 1846,Bam Adebayo,5827,Bam Adebayo,4066261,Bam Adebayo,2844706,Bam Adebayo,13742,Bam Adebayo,'04ewf,Bam Adebayo,1628389
 2458,Paolo Banchero,6691,Paolo Banchero,4432573,Paolo Banchero,26775953,Paolo Banchero,38840,Paolo Banchero,'06210,Paolo Banchero,1631094
 2054,Zion Williamson,6163,Zion Williamson,4395628,Zion Williamson,3042398,Zion Williamson,16958,Zion Williamson,'051oh,Zion Williamson,1629627
 1716,Pascal Siakam,5658,Pascal Siakam,3149673,Pascal Siakam,2157611,Pascal Siakam,10123,Pascal Siakam,'042nm,Pascal Siakam,1627783
 1698,Brandon Ingram,5601,Brandon Ingram,3913176,Brandon Ingram,2202503,Brandon Ingram,10149,Brandon Ingram,'042n1,Brandon Ingram,1627742
-1924,Jaren Jackson Jr.,6015,Jaren Jackson Jr.,4277961,Jaren Jackson Jr.,2892693,Jaren Jackson Jr.,15201,Jaren Jackson Jr.,'04qrj,Jaren Jackson,1628991
+1924,Jaren Jackson,6015,Jaren Jackson Jr.,4277961,Jaren Jackson Jr.,2892693,Jaren Jackson Jr.,15201,Jaren Jackson Jr.,'04qrj,Jaren Jackson,1628991
 1967,Jalen Brunson,6044,Jalen Brunson,3934672,Jalen Brunson,2203517,Jalen Brunson,15280,Jalen Brunson,'04qsa,Jalen Brunson,1628973
 1975,Mikal Bridges,6021,Mikal Bridges,3147657,Mikal Bridges,2153056,Mikal Bridges,15207,Mikal Bridges,'04qrn,Mikal Bridges,1628969
 1752,Lauri Markkanen,5769,Lauri Markkanen,4066336,Lauri Markkanen,2844693,Lauri Markkanen,13734,Lauri Markkanen,'04azw,Lauri Markkanen,1628374
@@ -62,39 +62,39 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1831,OG Anunoby,5836,O.G. Anunoby,3934719,OG Anunoby,2844732,OG Anunoby,13750,OG Anunoby,'04ewn,OG Anunoby,1628384
 1974,Deandre Ayton,5958,Deandre Ayton,4278129,Deandre Ayton,2891991,Deandre Ayton,15198,Deandre Ayton,'049kd,Deandre Ayton,1629028
 2086,Tyler Herro,6175,Tyler Herro,4395725,Tyler Herro,3042352,Tyler Herro,17295,Tyler Herro,'051ot,Tyler Herro,1629639
-2308,Alperen Sengun,6558,Alperen Sengun,4871144,Alperen Sengun,26646084,Alperen Sengun,31045,Alperen Sengün,'05uiq,Alperen Sengun,1630578
+2308,Alperen Şengün,6558,Alperen Sengun,4871144,Alperen Sengun,26646084,Alperen Sengun,31045,Alperen Sengün,'05uiq,Alperen Sengun,1630578
 2126,Tyrese Maxey,6413,Tyrese Maxey,4431678,Tyrese Maxey,3142479,Tyrese Maxey,27450,Tyrese Maxey,'05qsq,Tyrese Maxey,1630178
 1350,Rudy Gobert,5197,Rudy Gobert,3032976,Rudy Gobert,2067669,Rudy Gobert,9503,Rudy Gobert,'02xg9,Rudy Gobert,203497
 1799,Kyle Kuzma,5840,Kyle Kuzma,3134907,Kyle Kuzma,2842826,Kyle Kuzma,13753,Kyle Kuzma,'04ewr,Kyle Kuzma,1628398
 2456,Keegan Murray,6694,Keegan Murray,4594327,Keegan Murray,3178498,Keegan Murray,38942,Keegan Murray,'06213,Keegan Murray,1631099
 2441,Walker Kessler,6712,Walker Kessler,4433136,Walker Kessler,3178012,Walker Kessler,38790,Walker Kessler,'0621l,Walker Kessler,1631117
 1378,Khris Middleton,5073,Khris Middleton,6609,Khris Middleton,1992813,Khris Middleton,9334,Khris Middleton,'02ng3,Khris Middleton,203114
-2445,Jabari Smith Jr.,6693,Jabari Smith Jr.,4432639,Jabari Smith Jr.,26776259,Jabari Smith,38797,Jabari Smith Jr.,'06212,Jabari Smith,1631095
+2445,Jabari Smith,6693,Jabari Smith Jr.,4432639,Jabari Smith Jr.,26776259,Jabari Smith,38797,Jabari Smith Jr.,'06212,Jabari Smith,1631095
 1983,Anfernee Simons,6035,Anfernee Simons,4351851,Anfernee Simons,2938080,Anfernee Simons,15221,Anfernee Simons,'04qs1,Anfernee Simons,1629014
 2032,Nic Claxton,6219,Nic Claxton,4278067,Nic Claxton,2892387,Nicolas Claxton,17252,Nicolas Claxton,'051pb,Nicolas Claxton,1629651
 2001,RJ Barrett,6165,RJ Barrett,4395625,RJ Barrett,3041122,RJ Barrett,17181,RJ Barrett,'051oj,RJ Barrett,1629628
 2568,Brandon Miller,10104,Brandon Miller,4433287,Brandon Miller,28954943,Brandon Miller,110400,Brandon Miller,'06cca,Brandon Miller,1641706
 1081,Klay Thompson,4892,Klay Thompson,6475,Klay Thompson,1647559,Klay Thompson,9221,Klay Thompson,'027ou,Klay Thompson,202691
-1988,Michael Porter Jr.,6025,Michael Porter Jr.,4278104,Michael Porter Jr.,2892728,Michael Porter Jr.,15211,Michael Porter Jr.,'04qrr,Michael Porter,1629008
+1988,Michael Porter,6025,Michael Porter Jr.,4278104,Michael Porter Jr.,2892728,Michael Porter Jr.,15211,Michael Porter Jr.,'04qrr,Michael Porter,1629008
 1512,Jerami Grant,5350,Jerami Grant,2991070,Jerami Grant,2135533,Jerami Grant,9419,Jerami Grant,'03aq2,Jerami Grant,203924
 2304,Franz Wagner,6550,Franz Wagner,4566434,Franz Wagner,3142358,Franz Wagner,31037,Franz Wagner,'05uii,Franz Wagner,1630532
 2065,Keldon Johnson,6217,Keldon Johnson,4395723,Keldon Johnson,3042075,Keldon Johnson,17305,Keldon Johnson,'051p9,Keldon Johnson,1629640
 1525,Andrew Wiggins,5292,Andrew Wiggins,3059319,Andrew Wiggins,2135571,Andrew Wiggins,9342,Andrew Wiggins,'02ym0,Andrew Wiggins,203952
 1516,Spencer Dinwiddie,5349,Spencer Dinwiddie,2580782,Spencer Dinwiddie,2135526,Spencer Dinwiddie,9209,Spencer Dinwiddie,'03e74,Spencer Dinwiddie,203915
-2009,Kevin Porter Jr.,6218,Kevin Porter Jr.,4397140,Kevin Porter Jr.,3042574,Kevin Porter,17286,Kevin Porter Jr.,'051pa,Kevin Porter,1629645
+2009,Kevin Porter,6218,Kevin Porter Jr.,4397140,Kevin Porter Jr.,3042574,Kevin Porter,17286,Kevin Porter Jr.,'051pa,Kevin Porter,1629645
 1583,Jusuf Nurkić,5327,Jusuf Nurkic,3102530,Jusuf Nurkic,2135553,Jusuf Nurkic,9192,Jusuf Nurkic,'03e6n,Jusuf Nurkic,203994
 2574,Amen Thompson,10108,Amen Thompson,4684740,Amen Thompson,29005049,Amen Thompson,111204,Amen Thompson,'06ca8,Amen Thompson,1641708
 1434,Russell Westbrook,4390,Russell Westbrook,3468,Russell Westbrook,1622555,Russell Westbrook,9387,Russell Westbrook,'005kc,Russell Westbrook,201566
 2146,Devin Vassell,6403,Devin Vassell,4395630,Devin Vassell,3041409,Devin Vassell,27644,Devin Vassell,'05qtr,Devin Vassell,1630170
 2453,Jalen Williams,6702,Jalen Williams,4593803,Jalen Williams,3141818,Jalen Williams,38949,Jalen Williams,'0621b,Jalen Williams,1631114
-1883,Wendell Carter Jr.,6018,Wendell Carter Jr.,4277847,Wendell Carter Jr.,2892260,Wendell Carter Jr.,15204,Wendell Carter Jr.,'04qrl,Wendell Carter,1628976
+1883,Wendell Carter,6018,Wendell Carter Jr.,4277847,Wendell Carter Jr.,2892260,Wendell Carter Jr.,15204,Wendell Carter Jr.,'04qrl,Wendell Carter,1628976
 1541,Clint Capela,5336,Clint Capela,3102529,Clint Capela,2135551,Clint Capela,9237,Clint Capela,'03e6s,Clint Capela,203991
 2439,Jaden Ivey,6695,Jaden Ivey,4433218,Jaden Ivey,3178475,Jaden Ivey,38635,Jaden Ivey,'06214,Jaden Ivey,1631093
 1339,Chris Paul,3930,Chris Paul,2779,Chris Paul,555969,Chris Paul,9265,Chris Paul,'0017e,Chris Paul,101108
 1621,D'Angelo Russell,5433,D'Angelo Russell,3136776,D'Angelo Russell,2152730,D'Angelo Russell,9285,D'Angelo Russell,'03ad4,DAngelo Russell,1626156
 1082,Draymond Green,5069,Draymond Green,6589,Draymond Green,1992792,Draymond Green,9228,Draymond Green,'02nfz,Draymond Green,203110
 1632,Terry Rozier,5476,Terry Rozier,3074752,Terry Rozier,2104417,Terry Rozier,9105,Terry Rozier,'03nwl,Terry Rozier,1626179
-1950,Robert Williams III,6038,Robert Williams III,4066211,Robert Williams III,2268547,Robert Williams III,15224,Robert Williams III,'04qs4,Robert Williams,1629057
+1950,Robert Williams,6038,Robert Williams III,4066211,Robert Williams III,2268547,Robert Williams III,15224,Robert Williams III,'04qs4,Robert Williams,1629057
 1809,John Collins,5832,John Collins,3908845,John Collins,2842788,John Collins,13737,John Collins,'04ewk,John Collins,1628381
 1319,Jonas Valančiūnas,4886,Jonas Valanciunas,6477,Jonas Valanciunas,1831124,Jonas Valanciunas,9491,Jonas Valanciunas,'027oo,Jonas Valanciunas,202685
 1600,Christian Wood,5583,Christian Wood,3058254,Christian Wood,2198707,Christian Wood,9427,Christian Wood,'03nwq,Christian Wood,
@@ -113,7 +113,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2438,Jalen Duren,6703,Jalen Duren,4433621,Jalen Duren,26776364,Jalen Duren,38848,Jalen Duren,'0621c,Jalen Duren,1631105
 2316,Austin Reaves,6606,Austin Reaves,4066457,Austin Reaves,2268681,Austin Reaves,35041,Austin Reaves,'05uus,Austin Reaves,1630559
 1830,Derrick White,5842,Derrick White,3078576,Derrick White,2844730,Derrick White,13755,Derrick White,'04ewt,Derrick White,1628401
-1982,Gary Trent Jr.,6048,Gary Trent Jr.,4277843,Gary Trent Jr.,2892264,Gary Trent Jr.,15355,Gary Trent Jr.,'04qse,Gary Trent,1629018
+1982,Gary Trent,6048,Gary Trent Jr.,4277843,Gary Trent Jr.,2892264,Gary Trent Jr.,15355,Gary Trent Jr.,'04qse,Gary Trent,1629018
 2563,Jarace Walker,10103,Jarace Walker,5106060,Jarace Walker,28954646,Jarace Walker,109468,Jarace Walker,'06cab,Jarace Walker,1641716
 2305,Jalen Suggs,6516,Jalen Suggs,4432165,Jalen Suggs,3177410,Jalen Suggs,31034,Jalen Suggs,'05uif,Jalen Suggs,1630591
 1676,Ben Simmons,5600,Ben Simmons,3907387,Ben Simmons,2202822,Ben Simmons,10087,Ben Simmons,'03lg1,Ben Simmons,1627732
@@ -146,10 +146,10 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1987,Jarred Vanderbilt,6052,Jarred Vanderbilt,4278077,Jarred Vanderbilt,2892548,Jarred Vanderbilt,15288,Jarred Vanderbilt,'04qsi,Jarred Vanderbilt,1629020
 2145,Tre Jones,6433,Tre Jones,4395626,Tre Jones,3041299,Tre Jones,27679,Tre Jones,'05qtq,Tre Jones,1630200
 2440,Mark Williams,6705,Mark Williams,4701232,Mark Williams,3178196,Mark Williams,38835,Mark Williams,'0621e,Mark Williams,1631109
-2584,Dereck Lively II,10097,Dereck Lively II,4683688,Dereck Lively II,28951880,Dereck Lively II,109470,Dereck Lively II,'06cc8,Dereck Lively,1641726
+2584,Dereck Lively,10097,Dereck Lively II,4683688,Dereck Lively II,28951880,Dereck Lively II,109470,Dereck Lively II,'06cc8,Dereck Lively,1641726
 1997,Daniel Gafford,6226,Daniel Gafford,4278049,Daniel Gafford,2892001,Daniel Gafford,17259,Daniel Gafford,'051pi,Daniel Gafford,1629655
 2476,Shaedon Sharpe,6697,Shaedon Sharpe,4914336,Shaedon Sharpe,26893318,Shaedon Sharpe,38941,Shaedon Sharpe,'06216,Shaedon Sharpe,1631101
-2285,Trey Murphy III,6559,Trey Murphy III,4397688,Trey Murphy III,3041735,Trey Murphy III,31046,Trey Murphy III,'05uir,Trey Murphy,1630530
+2285,Trey Murphy,6559,Trey Murphy III,4397688,Trey Murphy III,3041735,Trey Murphy III,31046,Trey Murphy III,'05uir,Trey Murphy,1630530
 1697,Ivica Zubac,5663,Ivica Zubac,4017837,Ivica Zubac,2245326,Ivica Zubac,10169,Ivica Zubac,'042nt,Ivica Zubac,1627826
 1614,Tyus Jones,5484,Tyus Jones,3135046,Tyus Jones,2152376,Tyus Jones,9347,Tyus Jones,'03ad0,Tyus Jones,1626145
 2573,Cam Whitmore,10118,Cam Whitmore,5105592,Cam Whitmore,28952054,Cam Whitmore,111216,Cam Whitmore,'06ca7,Cam Whitmore,1641715
@@ -161,14 +161,14 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1637,Norman Powell,5506,Norman Powell,2595516,Norman Powell,1905196,Norman Powell,9500,Norman Powell,'03r7z,Norman Powell,1626181
 1690,Caris LeVert,5651,Caris LeVert,2991043,Caris LeVert,2019069,Caris LeVert,9659,Caris LeVert,'042nf,Caris LeVert,1627747
 2095,Luguentz Dort,6254,Luguentz Dort,4397020,Luguentz Dort,3041476,Luguentz Dort,17255,Luguentz Dort,'0527l,Luguentz Dort,1629652
-2583,Jaime Jaquez Jr.,10092,Jaime Jaquez Jr.,4432848,Jaime Jaquez Jr.,3142048,Jaime Jaquez Jr.,111214,Jaime Jaquez Jr.,'06cbx,Jaime Jaquez,1631170
+2583,Jaime Jaquez,10092,Jaime Jaquez Jr.,4432848,Jaime Jaquez Jr.,3142048,Jaime Jaquez Jr.,111214,Jaime Jaquez Jr.,'06cbx,Jaime Jaquez,1631170
 2301,Davion Mitchell,6551,Davion Mitchell,4278053,Davion Mitchell,2892012,Davion Mitchell,31038,Davion Mitchell,'05uij,Davion Mitchell,1630558
 2119,Obi Toppin,6400,Obi Toppin,4278355,Obi Toppin,2892231,Obi Toppin,27591,Obi Toppin,'05qsx,Obi Toppin,1630167
 2050,De'Andre Hunter,6166,De'Andre Hunter,4065732,De'Andre Hunter,2268641,De'Andre Hunter,17190,De'Andre Hunter,'051ok,DeAndre Hunter,1629631
 2122,James Wiseman,6356,James Wiseman,4432808,James Wiseman,3142271,James Wiseman,27636,James Wiseman,'05qu1,James Wiseman,
 1779,Malik Monk,5824,Malik Monk,4066262,Malik Monk,2355022,Malik Monk,13739,Malik Monk,'049kc,Malik Monk,1628370
 1254,Dennis Schröder,5187,Dennis Schroder,3032979,Dennis Schroder,2067702,Dennis Schroder,9084,Dennis Schröder,'031m4,Dennis Schroder,203471
-1604,Kelly Oubre Jr.,5475,Kelly Oubre Jr.,3133603,Kelly Oubre Jr.,2152518,Kelly Oubre Jr.,9526,Kelly Oubre Jr.,'03nwk,Kelly Oubre Jr.,1626162
+1604,Kelly Oubre,5475,Kelly Oubre Jr.,3133603,Kelly Oubre Jr.,2152518,Kelly Oubre Jr.,9526,Kelly Oubre Jr.,'03nwk,Kelly Oubre Jr.,1626162
 2306,Jonathan Kuminga,6549,Jonathan Kuminga,4433247,Jonathan Kuminga,26602407,Jonathan Kuminga,31036,Jonathan Kuminga,'05uih,Jonathan Kuminga,1630228
 2586,Cason Wallace,10107,Cason Wallace,4683692,Cason Wallace,28953818,Cason Wallace,109469,Cason Wallace,'06cac,Cason Wallace,1641717
 1175,Mason Plumlee,5192,Mason Plumlee,2488653,Mason Plumlee,2067698,Mason Plumlee,9442,Mason Plumlee,'031m9,Mason Plumlee,203486
@@ -191,7 +191,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2278,Cam Thomas,6569,Cam Thomas,4432174,Cam Thomas,3177857,Cam Thomas,31056,Cam Thomas,'05uj1,Cameron Thomas,1630560
 1598,Kevon Looney,5490,Kevon Looney,3155535,Kevon Looney,2152976,Kevon Looney,9227,Kevon Looney,'03ad7,Kevon Looney,1626172
 1797,Thomas Bryant,5855,Thomas Bryant,3934723,Thomas Bryant,2202681,Thomas Bryant,13856,Thomas Bryant,'04ex5,Thomas Bryant,1628418
-1029,Tim Hardaway Jr.,5194,Tim Hardaway Jr.,2528210,Tim Hardaway Jr.,2067672,Tim Hardaway Jr.,9087,Tim Hardaway Jr.,'031mb,Tim Hardaway,203501
+1029,Tim Hardaway,5194,Tim Hardaway Jr.,2528210,Tim Hardaway Jr.,2067672,Tim Hardaway Jr.,9087,Tim Hardaway Jr.,'031mb,Tim Hardaway,203501
 1999,Max Strus,6267,Max Strus,4065778,Max Strus,2268003,Max Strus,17276,Max Strus,'0558t,Max Strus,1629622
 2576,Jordan Hawkins,10098,Jordan Hawkins,4683750,Jordan Hawkins,26778146,Jordan Hawkins,111210,Jordan Hawkins,'06ca9,Jordan Hawkins,1641722
 2041,Brandon Clarke,6209,Brandon Clarke,3906665,Brandon Clarke,2203220,Brandon Clarke,17251,Brandon Clarke,'051p1,Brandon Clarke,1629634
@@ -199,7 +199,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2449,Dyson Daniels,6698,Dyson Daniels,4869342,Dyson Daniels,26819234,Dyson Daniels,39833,Dyson Daniels,'06217,Dyson Daniels,1630700
 2193,Jae'Sean Tate,6463,Jae'Sean Tate,3136777,Jae'Sean Tate,2152731,Jae'Sean Tate,27596,Jae'Sean Tate,'05qve,JaeSean Tate,1630256
 2591,Jett Howard,10106,Jett Howard,5105806,Jett Howard,28955540,Jett Howard,111208,Jett Howard,'06cc6,Jett Howard,1641724
-1986,Marvin Bagley III,5959,Marvin Bagley III,4277848,Marvin Bagley III,2938012,Marvin Bagley III,15199,Marvin Bagley III,'049ki,Marvin Bagley,1628963
+1986,Marvin Bagley,5959,Marvin Bagley III,4277848,Marvin Bagley III,2938012,Marvin Bagley III,15199,Marvin Bagley III,'049ki,Marvin Bagley,1628963
 1959,Grayson Allen,6032,Grayson Allen,3135045,Grayson Allen,2152375,Grayson Allen,15218,Grayson Allen,'04qry,Grayson Allen,1628960
 1728,Dorian Finney-Smith,5693,Dorian Finney-Smith,2578185,Dorian Finney-Smith,2248003,Dorian Finney-Smith,10117,Dorian Finney-Smith,'043ib,Dorian Finney-Smith,1627827
 2632,Oscar Tshiebwe,10127,Oscar Tshiebwe,4432827,Oscar Tshiebwe,3142311,Oscar Tshiebwe,120108,Oscar Tshiebwe,'06cef,Oscar Tshiebwe,1631131
@@ -238,17 +238,17 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1019,Jarvis Varnado,,,,,,,,,,,
 2630,Omari Moore,10132,Omari Moore,,,,,,,'06cej,Omari Moore,
 2625,Mike Miles,10124,Mike Miles Jr.,,,,,,,'06ceh,Mike Miles,
-2631,Jaylen Martin,10134,Jaylen Martin,,,,,120104,Jaylen Martin,'06ceo,Jaylen Martin,1641798
+2631,Jaylen Martin,10134,Jaylen Martin,5149711,Jaylen Martin,,,120104,Jaylen Martin,'06ceo,Jaylen Martin,1641798
 2622,Sidy Cissoko,10051,Sidy Cissoko,5081727,Sidy Cissoko,29098284,Sidy Cissoko,,,'06cel,Sidy Cissoko,1631321
 1258,Mike Scott,,,,,,,,,'059xh,Mike Scott,
 2619,Jalen Pickett,10074,Jalen Pickett,4398390,Jalen Pickett,3041615,Jalen Pickett,111228,Jalen Pickett,'06ccy,Jalen Pickett,1629618
 2616,Colby Jones,10087,Colby Jones,4433378,Colby Jones,3178494,Colby Jones,111230,Colby Jones,'06cdj,Colby Jones,1641732
 2635,Terquavion Smith,10135,Terquavion Smith,,,,,,,'06cet,Terquavion Smith,
 2120,Isaac Okoro,6397,Isaac Okoro,4432822,Isaac Okoro,3147993,Isaac Okoro,27637,Isaac Okoro,'05qsk,Isaac Okoro,1630171
-2611,Andre Jackson Jr.,10082,Andre Jackson Jr.,4432190,Andre Jackson Jr.,3178207,Andre Jackson Jr.,111232,Andre Jackson Jr.,'06cdd,Andre Jackson,1641748
+2611,Andre Jackson,10082,Andre Jackson Jr.,4432190,Andre Jackson Jr.,3178207,Andre Jackson Jr.,111232,Andre Jackson Jr.,'06cdd,Andre Jackson,1641748
 1643,Justise Winslow,5470,Justise Winslow,3135047,Justise Winslow,2152379,Justise Winslow,,,'03nwi,Justise Winslow,
 2614,Keyontae Johnson,10071,Keyontae Johnson,4395714,Keyontae Johnson,3041881,Keyontae Johnson,,,'06cd7,Keyontae Johnson,
-2639,Malcolm Cazalon,10144,Malcolm Cazalon,,,,,,,'06cnb,Malcolm Cazalon,
+2639,Malcolm Cazalon,10144,Malcolm Cazalon,4871137,Malcolm Cazalon,,,,,'06cnb,Malcolm Cazalon,
 1192,Luc Mbah a Moute,,,,,,,,,,,
 2480,Nikola Jović,6717,Nikola Jovic,4997528,Nikola Jovic,26819236,Nikola Jovic,39836,Nikola Jovic,'0621q,Nikola Jovic,1631107
 1536,Jabari Brown,,,2580784,Jabari Brown,,,,,'03kqr,Jabari Brown,
@@ -269,7 +269,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1449,Nicolas Batum,4487,Nicolas Batum,3416,Nicolas Batum,1622493,Nicolas Batum,9133,Nicolas Batum,'005l0,Nicolas Batum,201587
 1998,Coby White,6169,Coby White,4395651,Coby White,3041443,Coby White,17193,Coby White,'051on,Coby White,1629632
 2043,Talen Horton-Tucker,6234,Talen Horton-Tucker,4396991,Talen Horton-Tucker,3042589,Talen Horton-Tucker,17217,Talen Horton-Tucker,'051pq,Talen Horton-Tucker,1629659
-2411,Lester Quinones,6750,Lester Quinones,4431720,Lester Quinones,3141524,Lester Quinones,40857,Lester Quinones,'0623c,Lester Quinones,1631311
+2411,Lester Quiñones,6750,Lester Quinones,4431720,Lester Quinones,3141524,Lester Quinones,40857,Lester Quinones,'0623c,Lester Quinones,1631311
 2084,Gabe Vincent,6353,Gabe Vincent,3137259,Gabe Vincent,2157919,Gabe Vincent,15324,Gabe Vincent,'05g3q,Gabe Vincent,1629216
 2452,Malaki Branham,6710,Malaki Branham,4565201,Malaki Branham,26778992,Malaki Branham,38740,Malaki Branham,'0621j,Malaki Branham,1631103
 2261,Chris Duarte,6555,Chris Duarte,4592402,Chris Duarte,3148385,Chris Duarte,31042,Chris Duarte,'05uin,Chris Duarte,
@@ -289,7 +289,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2575,Kobe Bufkin,10105,Kobe Bufkin,4683736,Kobe Bufkin,26778419,Kobe Bufkin,111211,Kobe Bufkin,'06ca4,Kobe Bufkin,1641723
 2053,Jaxson Hayes,6170,Jaxson Hayes,4397077,Jaxson Hayes,3041402,Jaxson Hayes,17194,Jaxson Hayes,'051oo,Jaxson Hayes,1629637
 2183,Aleksej Pokuševski,6409,Aleksej Pokusevski,4683018,Aleksej Pokusevski,3158639,Aleksej Pokusevski,27463,Aleksej Pokusevski,'05qud,Aleksej Pokusevski,
-2569,Nick Smith Jr.,10120,Nick Smith Jr.,4683686,Nick Smith Jr.,28953131,Nick Smith Jr.,111223,Nick Smith Jr.,'06ccb,Nick Smith,1641733
+2569,Nick Smith,10120,Nick Smith Jr.,4683686,Nick Smith Jr.,28953131,Nick Smith Jr.,111223,Nick Smith Jr.,'06ccb,Nick Smith,1641733
 2163,Xavier Tillman,6427,Xavier Tillman,4277964,Xavier Tillman,2892694,Xavier Tillman,,,'05qtf,Xavier Tillman,1630214
 2587,Kris Murray,10119,Kris Murray,4594326,Kris Murray,3178187,Kris Murray,111219,Kris Murray,'06ca5,Kris Murray,1631200
 2049,Cam Reddish,6172,Cam Reddish,4395627,Cam Reddish,3042251,Cam Reddish,17196,Cam Reddish,'051oq,Cam Reddish,
@@ -303,8 +303,8 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2606,Mouhamed Gueye,10069,Mouhamed Gueye,4712863,Mouhamed Gueye,26776586,Mouhamed Gueye,111235,Mouhamed Gueye,'06ccz,Mouhamed Gueye,1631243
 2643,Miles Norris,10148,Miles Norris,,,,,,,'06cp3,Miles Norris,1641936
 1856,Dennis Smith,5822,Dennis Smith Jr.,4065697,Dennis Smith Jr.,2842759,Dennis Smith Jr.,13736,Dennis Smith Jr.,'049s5,Dennis Smith,
-1953,Lonnie Walker IV,6029,Lonnie Walker IV,4277890,Lonnie Walker IV,2938054,Lonnie Walker IV,15215,Lonnie Walker IV,'04qrv,Lonnie Walker,1629022
-2363,David Duke Jr.,6624,David Duke Jr.,4397107,David Duke Jr.,3042151,David Duke Jr.,,,'05wvu,David Duke,1630561
+1953,Lonnie Walker,6029,Lonnie Walker IV,4277890,Lonnie Walker IV,2938054,Lonnie Walker IV,15215,Lonnie Walker IV,'04qrv,Lonnie Walker,1629022
+2363,David Duke,6624,David Duke Jr.,4397107,David Duke Jr.,3042151,David Duke Jr.,,,'05wvu,David Duke,1630561
 2275,Day'Ron Sharpe,6571,Day'Ron Sharpe,4432194,Day'Ron Sharpe,3177612,Day'Ron Sharpe,31058,Day'Ron Sharpe,'05uj3,DayRon Sharpe,1630549
 2600,Jalen Wilson,10077,Jalen Wilson,4431714,Jalen Wilson,3141587,Jalen Wilson,111247,Jalen Wilson,'06cdc,Jalen Wilson,1630592
 2097,Darius Bazley,6211,Darius Bazley,4423545,Darius Bazley,3118842,Darius Bazley,17240,Darius Bazley,'051p3,Darius Bazley,
@@ -325,7 +325,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1925,Jevon Carter,6043,Jevon Carter,3133635,Jevon Carter,2153082,Jevon Carter,15293,Jevon Carter,'04qs9,Jevon Carter,1628975
 2593,Emoni Bates,10066,Emoni Bates,4433620,Emoni Bates,26777846,Emoni Bates,111245,Emoni Bates,'06cd3,Emoni Bates,1641734
 1191,Ricky Rubio,4610,Ricky Rubio,4011,Ricky Rubio,1685267,Ricky Rubio,9338,Ricky Rubio,'01enw,Ricky Rubio,
-2640,Craig Porter Jr.,10145,Craig Porter Jr.,4701233,Craig Porter Jr.,3177421,Craig Porter Jr.,111258,Craig Porter Jr.,'06cp4,Craig Porter,1641854
+2640,Craig Porter,10145,Craig Porter Jr.,4701233,Craig Porter Jr.,3177421,Craig Porter Jr.,111258,Craig Porter Jr.,'06cp4,Craig Porter,1641854
 2460,Isaiah Mobley,6739,Isaiah Mobley,4432815,Isaiah Mobley,,,38951,Isaiah Mobley,'0622c,Isaiah Mobley,
 1555,Danté Exum,5316,Dante Exum,3102528,Dante Exum,2135530,Dante Exum,9509,Dante Exum,'03acx,Dante Exum,203957
 1852,Maxi Kleber,5892,Maxi Kleber,2960236,Maxi Kleber,2859405,Maxi Kleber,13817,Maxi Kleber,'04jw4,Maxi Kleber,1628467
@@ -341,7 +341,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1674,Dario Šarić,5323,Dario Saric,3032978,Dario Saric,2135562,Dario Saric,10115,Dario Saric,'03acy,Dario Saric,203967
 2262,Moses Moody,6556,Moses Moody,4432171,Moses Moody,3177810,Moses Moody,31043,Moses Moody,'05uio,Moses Moody,1630541
 2597,Trayce Jackson-Davis,10080,Trayce Jackson-Davis,4431684,Trayce Jackson-Davis,3141642,Trayce Jackson-Davis,111253,Trayce Jackson-Davis,'06ccv,Trayce Jackson-Davis,1631218
-1726,Gary Payton II,5739,Gary Payton II,3134903,Gary Payton II,2266964,Gary Payton II,11882,Gary Payton II,'043cj,Gary Payton II,1627780
+1726,Gary Payton,5739,Gary Payton II,3134903,Gary Payton II,2266964,Gary Payton II,11882,Gary Payton II,'043cj,Gary Payton II,1627780
 2317,Jock Landale,6614,Jock Landale,3146557,Jock Landale,2152845,Jock Landale,33899,Jock Landale,'05uuq,Jock Landale,1629111
 2144,Aaron Nesmith,6406,Aaron Nesmith,4396909,Aaron Nesmith,3041270,Aaron Nesmith,27883,Aaron Nesmith,'05qt4,Aaron Nesmith,1630174
 1602,T.J. McConnell,5582,T.J. McConnell,2530530,T.J. McConnell,2198705,T.J. McConnell,9423,T.J. McConnell,'03wr4,T.J. McConnell,204456
@@ -372,12 +372,12 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1403,Jae Crowder,5068,Jae Crowder,6581,Jae Crowder,1992784,Jae Crowder,9107,Jae Crowder,'02nfy,Jae Crowder,203109
 1652,Pat Connaughton,5501,Pat Connaughton,2578239,Pat Connaughton,1904813,Pat Connaughton,9456,Pat Connaughton,'03r7v,Pat Connaughton,1626192
 1900,Shake Milton,6065,Shake Milton,3915195,Shake Milton,2203244,Shake Milton,15261,Shake Milton,'04qsu,Shake Milton,1629003
-2442,Wendell Moore Jr.,6716,Wendell Moore Jr.,4592187,Wendell Moore Jr.,3142267,Wendell Moore Jr.,38841,Wendell Moore Jr.,'0621p,Wendell Moore,1631111
+2442,Wendell Moore,6716,Wendell Moore Jr.,4592187,Wendell Moore Jr.,3142267,Wendell Moore Jr.,38841,Wendell Moore Jr.,'0621p,Wendell Moore,1631111
 2465,Josh Minott,6735,Josh Minott,4687718,Josh Minott,26777945,Josh Minott,38847,Josh Minott,'06228,Josh Minott,1631169
 2055,Nickeil Alexander-Walker,6205,Nickeil Alexander-Walker,4278039,Nickeil Alexander-Walker,2893425,Nickeil Alexander-Walker,17208,Nickeil Alexander-Walker,'051ox,Nickeil Alexander-Walker,1629638
 2471,E.J. Liddell,6731,E.J. Liddell,4432821,E.J. Liddell,,,,,'06224,E.J. Liddell,1630604
 2140,Kira Lewis,6405,Kira Lewis Jr.,4395698,Kira Lewis Jr.,3042037,Kira Lewis Jr.,27849,Kira Lewis Jr.,'05qtc,Kira Lewis,
-1620,Larry Nance Jr.,5487,Larry Nance Jr.,2580365,Larry Nance Jr.,1905367,Larry Nance Jr.,9286,Larry Nance Jr.,'03r7l,Larry Nance,1626204
+1620,Larry Nance,5487,Larry Nance Jr.,2580365,Larry Nance Jr.,1905367,Larry Nance Jr.,9286,Larry Nance Jr.,'03r7l,Larry Nance,1626204
 2322,Jose Alvarado,6613,Jose Alvarado,4277869,Jose Alvarado,2892395,Jose Alvarado,35219,Jose Alvarado,'05uul,Jose Alvarado,1630631
 2320,Duane Washington,6607,Duane Washington Jr.,4397235,Duane Washington Jr.,,,,,'05uuh,Duane Washington,
 2088,Isaiah Roby,6233,Isaiah Roby,4066392,Isaiah Roby,,,,,'051pp,Isaiah Roby,
@@ -389,14 +389,14 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2297,Tre Mann,6560,Tre Mann,4432819,Tre Mann,3141539,Tre Mann,31047,Tre Mann,'05uis,Tre Mann,1630544
 2475,Jaylin Williams,6724,Jaylin Williams,4432823,Jaylin Williams,3177455,Jaylin Williams,38695,Jaylin Williams,'0621x,Jaylin Williams,1631119
 1489,Victor Oladipo,5153,Victor Oladipo,2527963,Victor Oladipo,,,,,'031lp,Victor Oladipo,
-2446,TyTy Washington Jr.,6719,TyTy Washington Jr.,4683749,TyTy Washington Jr.,26776943,TyTy Washington Jr.,,,'0621s,TyTy Washington,1631102
+2446,TyTy Washington,6719,TyTy Washington Jr.,4683749,TyTy Washington Jr.,26776943,TyTy Washington Jr.,,,'0621s,TyTy Washington,1631102
 2298,Jeremiah Robinson-Earl,6574,Jeremiah Robinson-Earl,4432813,Jeremiah Robinson-Earl,3141741,Jeremiah Robinson-Earl,31061,Jeremiah Robinson-Earl,'05uj6,Jeremiah Robinson-Earl,1630526
 1932,Moritz Wagner,6036,Moritz Wagner,3150844,Moritz Wagner,,,15222,Moritz Wagner,'04qs2,Moritz Wagner,1629021
 2010,Goga Bitadze,6206,Goga Bitadze,4348700,Goga Bitadze,3118839,Goga Bitadze,17241,Goga Bitadze,'051oy,Goga Bitadze,1629048
 2117,Chuma Okeke,6204,Chuma Okeke,4278052,Chuma Okeke,2892013,Chuma Okeke,17230,Chuma Okeke,'051ow,Chuma Okeke,1629643
 2263,Filip Petrušev,6592,Filip Petrusev,4397667,Filip Petrusev,,,,,'05ujo,Filip Petrusev,
 2264,Jaden Springer,6570,Jaden Springer,4432164,Jaden Springer,3177963,Jaden Springer,31057,Jaden Springer,'05uj2,Jaden Springer,1630531
-2624,Ricky Council IV,10125,Ricky Council IV,4701234,Ricky Council IV,,,111256,Ricky Council IV,'06ceg,Ricky Council,1641741
+2624,Ricky Council,10125,Ricky Council IV,4701234,Ricky Council IV,,,111256,Ricky Council IV,'06ceg,Ricky Council,1641741
 1625,Montrezl Harrell,5492,Montrezl Harrell,2991055,Montrezl Harrell,2019010,Montrezl Harrell,9244,Montrezl Harrell,'03byg,Montrezl Harrell,
 2128,Paul Reed,6450,Paul Reed,4278562,Paul Reed,2892242,Paul Reed,27884,Paul Reed,'05qst,Paul Reed,1630194
 1421,P.J. Tucker,4163,P.J. Tucker,3033,P.J. Tucker,1113186,P.J. Tucker,9430,P.J. Tucker,'02q81,P.J. Tucker,200782
@@ -429,10 +429,10 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1899,Landry Shamet,6037,Landry Shamet,3914044,Landry Shamet,2203585,Landry Shamet,15223,Landry Shamet,'04qs3,Landry Shamet,1629013
 2463,Ryan Rollins,6734,Ryan Rollins,4591725,Ryan Rollins,3177732,Ryan Rollins,38954,Ryan Rollins,'06227,Ryan Rollins,1631157
 2596,Tristan Vukcevic,10078,Tristan Vukcevic,4997537,Tristan Vukcevic,29118351,Tristan Vukcevic,111238,Tristan Vukcevic,'06ccu,Tristan Vukcevic,1641774
-2436,Patrick Baldwin Jr.,6718,Patrick Baldwin Jr.,4433246,Patrick Baldwin Jr.,,,38943,Patrick Baldwin Jr.,'0621r,Patrick Baldwin,1631116
+2436,Patrick Baldwin,6718,Patrick Baldwin Jr.,4433246,Patrick Baldwin Jr.,,,38943,Patrick Baldwin Jr.,'0621r,Patrick Baldwin,1631116
 1468,Danilo Gallinari,4468,Danilo Gallinari,3428,Danilo Gallinari,1622533,Danilo Gallinari,9187,Danilo Gallinari,'005ke,Danilo Gallinari,
 1636,Delon Wright,5480,Delon Wright,3064447,Delon Wright,2105158,Delon Wright,9495,Delon Wright,'03r7h,Delon Wright,1626153
-2496,Javon Freeman-Liberty,6759,Javon Freeman-Liberty,,,,,,,'062k1,Javon Freeman-Liberty,
+2496,Javon Freeman-Liberty,6759,Javon Freeman-Liberty,4397511,Javon Freeman-Liberty,,,,,'062k1,Javon Freeman-Liberty,
 2550,Alex O'Connell,,,,,,,,,'06669,Alex OConnell,
 1447,Will Barton,5074,Will Barton,6579,Will Barton,1992782,Will Barton,,,'02ng4,Will Barton,
 1027,Carmelo Anthony,,,1975,Carmelo Anthony,,,,,'00129,Carmelo Anthony,
@@ -503,7 +503,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2538,Noah Kirkwood,,,,,,,,,'0663u,Noah Kirkwood,
 2537,Jamal Cain,6801,Jamal Cain,4278572,Jamal Cain,2892640,Jamal Cain,53608,Jamal Cain,'0661b,Jamal Cain,1631288
 2536,Grant Golden,,,,,,,,,'065vf,Grant Golden,
-2535,Stanley Umude,6782,Stanley Umude,,,,,,,'065ve,Stanley Umude,1630649
+2535,Stanley Umude,6782,Stanley Umude,4279532,Stanley Umude,,,,,'065ve,Stanley Umude,1630649
 2534,Jules Bernard,,,,,,,,,'065vd,Jules Bernard,
 2532,Adonis Arms,,,,,,,,,'065vb,Adonis Arms,
 2531,Justin Bean,,,,,,,,,'065uu,Justin Bean,
@@ -512,7 +512,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2528,Nuni Omot,,,,,,,,,'04xic,Nuni Omot,
 2527,Trevion Williams,,,,,,,,,'065px,Trevion Williams,
 2526,Marcus Bingham,,,,,,,,,'065h6,Marcus Bingham,
-2525,Ibou Badji,6821,Ibou Badji,,,,,56038,Ibou Badji,'065b6,Ibou Badji,
+2525,Ibou Badji,6821,Ibou Badji,4871140,Ibou Badji,,,56038,Ibou Badji,'065b6,Ibou Badji,
 2524,Lucas Williamson,,,,,,,,,'065b9,Lucas Williamson,
 2523,Kyler Edwards,,,,,,,,,'065b7,Kyler Edwards,
 2522,Keaton Wallace,10053,Keaton Wallace,4279118,Keaton Wallace,2893398,Keaton Wallace,120094,Keaton Wallace,'065b8,Keaton Wallace,1630811
@@ -523,7 +523,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2517,Isaiah Whaley,,,,,,,,,'064s7,Isaiah Whaley,
 2516,Jaylen Sims,,,,,3041032,Jaylen Sims,,,'064s6,Jaylen Sims,
 2515,Chandler Vaudrin,,,,,,,,,'064s5,Chandler Vaudrin,
-2514,Daeqwon Plowden,6786,Daeqwon Plowden,,,2892056,Daeqwon Plowden,120099,Daeqwon Plowden,'064q6,Daeqwon Plowden,1631342
+2514,Daeqwon Plowden,6786,Daeqwon Plowden,4279318,Daeqwon Plowden,2892056,Daeqwon Plowden,120099,Daeqwon Plowden,'064q6,Daeqwon Plowden,1631342
 2513,Tommy Kuhse,,,,,,,,,'06452,Tommy Kuhse,
 2512,Mouhamadou Gueye,6773,Mouhamadou Gueye,,,,,,,'063u8,Mouhamadou Gueye,
 2511,Makur Maker,,,,,,,,,'063rs,Makur Maker,
@@ -540,7 +540,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2500,Jack White,6765,Jack White,4065653,Jack White,,,,,'062sr,Jack White,
 2499,Darius Days,6763,Darius Days,,,,Darius Days,,,'062sp,Darius Days,
 2498,Kellan Grady,,,,,,,,,'062sq,Kellan Grady,
-2495,Tyson Etienne,6785,Tyson Etienne,,,3142076,Tyson Etienne,120201,Tyson Etienne,'062do,Tyson Etienne,1630623
+2495,Tyson Etienne,6785,Tyson Etienne,4432887,Tyson Etienne,3142076,Tyson Etienne,120201,Tyson Etienne,'062do,Tyson Etienne,1630623
 2493,Buddy Boeheim,6752,Buddy Boeheim,,,,Buddy Boeheim,,,'062d2,Buddy Boeheim,
 2491,Hugo Besson,,,4871138,Hugo Besson,,,,,'0622l,Hugo Besson,
 2490,Karlo Matković,6742,Karlo Matković,4997538,Karlo Matkovic,28870629,Karlo Matkovic,,,'0622f,Karlo Matkovic,1631255
@@ -551,12 +551,12 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2477,Jabari Walker,6747,Jabari Walker,4432446,Jabari Walker,3178527,Jabari Walker,38959,Jabari Walker,'0622k,Jabari Walker,1631133
 2474,Moussa Diabaté,6733,Moussa Diabate,4433249,Moussa Diabate,26776676,Moussa Diabate,38955,Moussa Diabaté,'06226,Moussa Diabate,1631217
 2469,Tyrese Martin,6741,Tyrese Martin,4397179,Tyrese Martin,3042326,Tyrese Martin,120171,Tyrese Martin,'0622e,Tyrese Martin,1631213
-2466,Vince Williams Jr.,6737,Vince Williams Jr.,4397227,Vince Williams Jr.,3041425,Vince Williams Jr.,38953,Vince Williams Jr.,'0622a,Vince Williams,1631246
+2466,Vince Williams,6737,Vince Williams Jr.,4397227,Vince Williams Jr.,3041425,Vince Williams Jr.,38953,Vince Williams Jr.,'0622a,Vince Williams,1631246
 2462,Kendall Brown,6738,Kendall Brown,4433254,Kendall Brown,,,,,'0622b,Kendall Brown,
 2459,Trevor Keels,6732,Trevor Keels,4432645,Trevor Keels,,,,,'06225,Trevor Keels,
 2432,Keon Ellis,6753,Keon Ellis,4702177,Keon Ellis,3177805,Keon Ellis,53595,Keon Ellis,'0623m,Keon Ellis,1631165
 2431,Jamaree Bouyea,6800,Jamaree Bouyea,4280245,Jamaree Bouyea,,,53703,Jamaree Bouyea,'0623l,Jamaree Bouyea,1631123
-2430,Dereon Seabron,6769,Dereon Seabron,,,,,,,'0623k,Dereon Seabron,
+2430,Dereon Seabron,6769,Dereon Seabron,4431811,Dereon Seabron,,,,,'0623k,Dereon Seabron,
 2429,Cole Swider,6799,Cole Swider,4397134,Cole Swider,,,53592,Cole Swider,'0623n,Cole Swider,
 2428,Alondes Williams,6749,Alondes Williams,4592216,Alondes Williams,,,,,'0623h,Alondes Williams,
 2427,Justin Lewis,6760,Justin Lewis,,,,Justin Lewis,,,'0623f,Justin Lewis,
@@ -567,11 +567,11 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2421,Jalen Adaway,,,,,,,,,'06238,Jalen Adaway,
 2420,Bryce Hamilton,,,,,,,,,'06237,Bryce Hamilton,
 2417,AJ Green,6755,A.J. Green,4397475,AJ Green,3041713,AJ Green,39849,AJ Green,'06234,AJ Green,1631260
-2416,Scotty Pippen Jr.,6757,Scotty Pippen Jr.,4431785,Scotty Pippen Jr.,3142395,Scotty Pippen Jr.,53593,Scotty Pippen Jr.,'0623a,Scotty Pippen,1630590
+2416,Scotty Pippen,6757,Scotty Pippen Jr.,4431785,Scotty Pippen Jr.,3142395,Scotty Pippen Jr.,53593,Scotty Pippen Jr.,'0623a,Scotty Pippen,1630590
 2413,Johnny Juzang,6762,Johnny Juzang,4432817,Johnny Juzang,3142562,Johnny Juzang,39851,Johnny Juzang,'0623d,Johnny Juzang,1630548
-2412,Ron Harper,,,,,,,,,'06233,Ron Harper,1631199
+2412,Ron Harper,,,4397251,Ron Harper Jr.,,,,,'06233,Ron Harper,1631199
 2409,Gabriel Lundberg,,,,,,,,,,,
-2408,Lindy Waters III,6687,Lindy Waters III,4066317,Lindy Waters III,2268362,Lindy Waters III,37944,Lindy Waters III,'05yoh,Lindy Waters,1630322
+2408,Lindy Waters,6687,Lindy Waters III,4066317,Lindy Waters III,2268362,Lindy Waters III,37944,Lindy Waters III,'05yoh,Lindy Waters,1630322
 2407,Lindell Wigginton,6287,Lindell Wigginton,,,,,,,'0590m,Lindell Wigginton,
 2406,Braxton Key,6686,Braxton Key,,,,,37656,Braxton Key,'05ycx,Braxton Key,1630296
 2405,Jaysean Paige,,,,,,,,,'05ybc,Jaysean Paige,
@@ -596,7 +596,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2386,Brandon Rachal,,,,,,,,,'05xo8,Brandon Rachal,
 2385,Giorgi Bezhanishvili,,,,,,,,,'05xo5,Giorgi Bezhanishvili,
 2384,James Banks,,,,,,,,,'05xo0,James Banks,
-2383,Cameron McGriff,,,4066315,Cameron McGriff,,,,,'05xnj,Cameron McGriff,
+2383,Cameron McGriff,,,4066315,Cam McGriff,,,,,'05xnj,Cameron McGriff,
 2382,Jalen Crutcher,6661,Jalen Crutcher,,,,,,,'05xni,Jalen Crutcher,
 2381,Romeo Weems,,,,,,,,,'05xnf,Romeo Weems,
 2380,Jeremiah Tilmon,,,,,,,,,'05xnb,Jeremiah Tilmon,
@@ -604,7 +604,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2378,Denzel Mahoney,,,,,,,,,'05xn9,Denzel Mahoney,
 2377,Nate Renfro,,,,,,,,,'05xkz,Nate Renfro,
 2375,Matt Ryan,6654,Matt Ryan,3908336,Matt Ryan,,,,,'05xco,Matt Ryan,
-2374,DJ Steward,,,,,,,,,'05xcn,DJ Steward,
+2374,DJ Steward,,,4701231,DJ Steward,,,,,'05xcn,DJ Steward,
 2373,Rob Edwards,,,,,,,,,'05xcl,Rob Edwards,
 2372,Matt Coleman,,,,,,,,,'05xac,Matt Coleman,
 2371,Jordan Schakel,,,4895528,Jordan Schakel,,,,,'05x7g,Jordan Schakel,
@@ -614,7 +614,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2367,Petr Cornelie,,,3899009,Petr Cornelie,,,,,'042oc,Petr Cornelie,
 2366,Johnny Hamilton,,,,,,,,,'04xid,Johnny Hamilton,
 2365,D.J. Stewart,,,,,,,,,'05wvy,D.J. Stewart,
-2364,D.J. Carton,,,,,,,,,'05wvx,D.J. Carton,
+2364,D.J. Carton,,,4432820,D.J. Carton,,,,,'05wvx,D.J. Carton,
 2362,Jamorko Pickett,,,4278566,Jamorko Pickett,,,,,'05wvv,Jamorko Pickett,
 2361,Derrick Alston,,,,,,,,,'05wvw,Derrick Alston,
 2360,Dru Smith,6652,Dru Smith,4066993,Dru Smith,2268047,Dru Smith,35173,Dru Smith,'05wqo,Dru Smith,1630696
@@ -625,9 +625,9 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2355,Moses Wright,,,4277871,Moses Wright,,,,,'05wqi,Moses Wright,
 2354,Kevin Pangos,,,2583962,Kevin Pangos,,,,,'05wn0,Kevin Pangos,
 2353,Malcolm Hill,,,,,,,,,'05wmn,Malcolm Hill,
-2352,Ethan Thompson,6637,Ethan Thompson,,,,,,,'05wkc,Ethan Thompson,1630679
+2352,Ethan Thompson,6637,Ethan Thompson,4278516,Ethan Thompson,,,,,'05wkc,Ethan Thompson,1630679
 2351,Hassani Gravett,,,4066221,Hassani Gravett,,,,,'057ow,Hassani Gravett,
-2350,Jeff Dowtin Jr.,6636,Jeff Dowtin Jr.,4066786,Jeff Dowtin Jr.,2268416,Jeff Dowtin,120095,Jeff Dowtin Jr.,'05wkd,Jeff Dowtin,1630288
+2350,Jeff Dowtin,6636,Jeff Dowtin Jr.,4066786,Jeff Dowtin Jr.,2268416,Jeff Dowtin,120095,Jeff Dowtin Jr.,'05wkd,Jeff Dowtin,1630288
 2349,JaQuori McLaughlin,,,4066496,JaQuori McLaughlin,,,,,'05wc6,JaQuori McLaughlin,
 2348,Marcus Garrett,,,4277892,Marcus Garrett,,,,,'05wah,Marcus Garrett,
 2347,Daishen Nix,6626,Daishen Nix,4432176,Daishen Nix,26602409,Daishen Nix,,,'05vyx,Daishen Nix,
@@ -651,7 +651,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2327,Arnoldas Kulboka,,,4230551,Arnoldas Kulboka,,,,,'04qsv,Arnoldas Kulboka,
 2326,Chris Smith,,,,,,,,,'05uuk,Chris Smith,
 2324,Justin Champagnie,6632,Justin Champagnie,4432907,Justin Champagnie,3142275,Justin Champagnie,31159,Justin Champagnie,'05uud,Justin Champagnie,1630551
-2323,McKinley Wright,,,,,,,,,'05uuw,McKinley Wright,
+2323,McKinley Wright,,,4278507,McKinley Wright IV,,,,,'05uuw,McKinley Wright,
 2321,Terry Taylor,6609,Terry Taylor,4279815,Terry Taylor,2892021,Terry Taylor,35204,Terry Taylor,'05uuj,Terry Taylor,
 2319,Ish Wainright,6633,Ish Wainright,3059307,Ish Wainright,,,31158,Ish Wainright,,,
 2318,Keifer Sykes,,,2596247,Keifer Sykes,,,,,'03wqx,Keifer Sykes,
@@ -685,7 +685,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2246,Kaiser Gates,,,,,,,,,'04xdt,Kaiser Gates,
 2245,Shaq Buchanan,,,,,,,,,'05r0f,Shaq Buchanan,
 2244,Christian Vital,,,,,,,,,'05r0e,Christian Vital,
-2243,Tre Scott,,,,,,,,,'05r0c,Tre Scott,
+2243,Trevon Scott,,,,,,,,,'05r0c,Tre Scott,
 2242,Bennie Boatwright,,,,,,,,,'059y5,Bennie Boatwright,
 2241,Ahmad Caver,,,,,,,,,'05qzv,Ahmad Caver,
 2239,Jon Teske,,,4066378,Jon Teske,,,,,'05qzo,Jon Teske,
@@ -700,7 +700,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2230,Jordan Ford,,,,,,,,,'05qzf,Jordan Ford,
 2229,Malik Fitts,,,,,,,,,'05qzg,Malik Fitts,
 2228,Tres Tinkle,,,,,,,,,'05qze,Tres Tinkle,
-2227,Kevon Harris,6767,Kevon Harris,,,,Kevon Harris,27725,Kevon Harris,'05qzd,Kevon Harris,
+2227,Kevon Harris,6767,Kevon Harris,4067858,Kevon Harris,,Kevon Harris,27725,Kevon Harris,'05qzd,Kevon Harris,
 2226,Freddie Gillespie,,,4277886,Freddie Gillespie,,,,,'05qzc,Freddie Gillespie,
 2225,Devonte Patterson,,,,,,,,,'05qzb,Devonte Patterson,
 2224,EJ Montgomery,,,,,,,,,'05qz8,EJ Montgomery,
@@ -840,7 +840,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2015,Alen Smailagić,,,4401415,Alen Smailagic,,,,,'051pj,Alen Smailagic,
 2014,Eric Paschall,,,3133817,Eric Paschall,,,,,'051pl,Eric Paschall,
 2013,Ky Bowman,,,4065635,Ky Bowman,,,,,'059fx,Ky Bowman,
-2011,Brian Bowen,,,,,,,,,'059ce,Brian Bowen,
+2011,Brian Bowen,,,4277882,Brian Bowen II,,,,,'059ce,Brian Bowen,
 2008,Dean Wade,6256,Dean Wade,3912848,Dean Wade,2202735,Dean Wade,17274,Dean Wade,'0529c,Dean Wade,1629731
 2006,Matt Mooney,,,3149036,Matt Mooney,,,,,'0590n,Matt Mooney,
 2005,Dylan Windler,6214,Dylan Windler,3906786,Dylan Windler,,,,,'051p6,Dylan Windler,
@@ -920,7 +920,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1890,Jaron Blossomgame,,,,,,,,,'04exm,Jaron Blossomgame,
 1889,Deng Adel,,,3908807,Deng Adel,,,,,'04vxy,Deng Adel,
 1888,Allonzo Trier,,,3907525,Allonzo Trier,,,,,'03lgk,Allonzo Trier,
-1886,Kevin Knox,,,,,,,,,'049kh,Kevin Knox,1628995
+1886,Kevin Knox,,,4278075,Kevin Knox II,,,,,'049kh,Kevin Knox,1628995
 1885,Billy Garrett,,,3059356,Billy Garrett Jr.,,,,,,,
 1884,Rawle Alkins,,,4066334,Rawle Alkins,,,,,'04sxx,Rawle Alkins,
 1882,Chandler Hutchison,,,3149010,Chandler Hutchison,,,,,'04qrz,Chandler Hutchison,
@@ -973,7 +973,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1819,Charles Cooke,,,2988387,Charles Cooke,,,,,'04is9,Charles Cooke,
 1818,Mike James,,,2528096,Mike James,,,,,'041f7,Mike James,
 1817,Jalen Jones,,,2579476,Jalen Jones,,,,,'0484k,Jalen Jones,
-1816,Walt Lemon,,,,,,,,,'04mus,Walt Lemon Jr.,
+1816,Walt Lemon,,,2528586,Walt Lemon Jr.,,,,,'04mus,Walt Lemon Jr.,
 1815,Frank Jackson,,,4065651,Frank Jackson,,,,,'04ewv,Frank Jackson,
 1814,Andrew White,,,2990972,Andrew White III,,,,,'04l1t,Andrew White,
 1813,Tyler Cavanaugh,,,2982349,Tyler Cavanaugh,,,,,'04kpp,Tyler Cavanaugh,
@@ -986,7 +986,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1805,Aaron Jackson,,,,,,,,,,,
 1804,Le'Bryan Nash,,,,,,,,,,,
 1802,Andre Ingram,,,,,,,,,,,
-1800,Nigel Hayes-Davis,5908,Nigel Hayes-Davis,3059409,Nigel Hayes,,,,,,,
+1800,Nigel Hayes-Davis,5908,Nigel Hayes-Davis,3059409,Nigel Hayes-Davis,,,,,,,
 1796,Ivan Rabb,,,,,,,,,'03llv,Ivan Rabb,
 1795,Kobi Simmons,5898,Kobi Simmons,4066335,Kobi Simmons,2354777,Kobi Simmons,,,'04is8,Kobi Simmons,
 1794,Omari Johnson,,,,,,,,,,,
@@ -1034,7 +1034,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1740,Álex Abrines,,,,,,,,,,,
 1738,Marquese Chriss,,,3907487,Marquese Chriss,,,,,'042n5,Marquese Chriss,
 1737,Tyler Ulis,,,,,,,,,'042nu,Tyler Ulis,
-1736,Derrick Jones Jr.,5747,Derrick Jones Jr.,3936099,Derrick Jones Jr.,2267075,Derrick Jones Jr.,10146,Derrick Jones Jr.,'048zt,Derrick Jones,1627884
+1736,Derrick Jones,5747,Derrick Jones Jr.,3936099,Derrick Jones Jr.,2267075,Derrick Jones Jr.,10146,Derrick Jones Jr.,'048zt,Derrick Jones,1627884
 1735,Dragan Bender,,,,,,,,,'03xmu,Dragan Bender,
 1734,Jarrod Uthoff,,,2579293,Jarrod Uthoff,,,,,'04576,Jarrod Uthoff,
 1733,Nicolás Brussino,,,3929314,Nicolas Brussino,,,,,'043vz,Nicolas Brussino,
@@ -1440,7 +1440,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 1005,Cartier Martin,,,,,,,,,,,
 1003,Tony Snell,,,2528353,Tony Snell,,,,,'031m7,Tony Snell,
 2651,Alex Fudge,,,,,,,,,'06fwl,Alex Fudge,
-2652,Javonte Cooke,,,,,,,,,'06fzs,Javonte Cooke,
+2652,Javonte Cooke,,,4597259,Javonte Cooke,,,,,'06fzs,Javonte Cooke,
 2653,George Conditt,,,,,,,,,'06giy,George Conditt,
 2654,Duop Reath,10164,Duop Reath,4066268,Duop Reath,2268208,Duop Reath,11259,Duop Reath,'06gix,Duop Reath,1641871
 2655,Henri Drell,,,,,,,,,'06gnm,Henri Drell,
@@ -1469,12 +1469,12 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2678,Taevion Kinsey,,,,,,,,,'06hif,Taevion Kinsey,
 2679,Tevian Jones,,,,,,,,,'06hik,Tevian Jones,
 2680,Liam Robbins,,,4397347,Liam Robbins,,,,,'06hil,Liam Robbins,
-2681,Trey Jemison,,,,,,,111259,Trey Jemison,'06him,Trey Jemison,1641998
+2681,Trey Jemison,,,4395623,Trey Jemison III,,,111259,Trey Jemison,'06him,Trey Jemison,1641998
 2682,Chase-DUP Audiege-DUP,,,,,,,,,,,
 2683,Keshawn Justice,,,,,,,,,'06hki,Keshawn Justice,
 2684,Au'Diese Toney,,,,,,,,,'06hn1,AuDiese Toney,
 2685,Timmy Allen,,,,,,,,,'06ho3,Timmy Allen,
-2686,Taze Moore,,,,,,,120175,Taze Moore,'06ho4,Taze Moore,
+2686,Taze Moore,,,4066808,Taze Moore,,,120175,Taze Moore,'06ho4,Taze Moore,
 2687,Yuri Collins,,,,,,,,,'06ho6,Yuri Collins,
 2688,Kyle Mangas,,,,,,,,,'06hpm,Kyle Mangas,
 2689,Reid Travis,,,,,,,,,'06hpn,Reid Travis,
@@ -1504,7 +1504,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2713,Jared McCain,10276,Jared McCain,4683778,Jared McCain,29233362,Jared McCain,120009,Jared McCain,'06mk8,Jared McCain,1642272
 2714,Kyshawn George,10272,Kyshawn George,5174563,Kyshawn George,29232627,Kyshawn George,120020,Kyshawn George,'06mkg,Kyshawn George,1642273
 2715,Bub Carrington,10273,Carlton Carrington,4845374,Bub Carrington,29231211,Carlton Carrington,120039,Carlton Carrington,'06mk6,Carlton Carrington,1642267
-2716,Terrence Shannon,,,,,3142402,Terrence Shannon Jr.,,,'06mkj,Terrence Shannon,1630545
+2716,Terrence Shannon,,,4432847,Terrence Shannon Jr.,3142402,Terrence Shannon Jr.,,,'06mkj,Terrence Shannon,1630545
 2717,Rob Dillingham,10281,Robert Dillingham,4684275,Rob Dillingham,29232027,Rob Dillingham,120007,Rob Dillingham,'06mk0,Robert Dillingham,1642265
 2718,Zach Edey,10287,Zach Edey,4600663,Zach Edey,3178244,Zach Edey,120018,Zach Edey,'06mk1,Zach Edey,1641744
 2719,Reed Sheppard,10288,Reed Sheppard,4711272,Reed Sheppard,29231118,Reed Sheppard,120004,Reed Sheppard,'06mjv,Reed Sheppard,1642263
@@ -1518,14 +1518,14 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2727,Dillon Jones,10284,Dillon Jones,4702159,Dillon Jones,3177945,Dillon Jones,120028,Dillon Jones,'06mki,Dillon Jones,1641794
 2728,Donovan Clingan,10285,Donovan Clingan,5105565,Donovan Clingan,28953860,Donovan Clingan,120003,Donovan Clingan,'06mjz,Donovan Clingan,1642270
 2729,Devin Carter,10293,Devin Carter,4433188,Devin Carter,26778569,Devin Carter,120013,Devin Carter,'06mk5,Devin Carter,1642269
-2730,DaRon Holmes,,,,,,,,,'06mke,DaRon Holmes,1641747
+2730,DaRon Holmes,,,4433607,DaRon Holmes II,,,,,'06mke,DaRon Holmes,1641747
 2732,Pacôme Dadiet,10297,Pacôme Dadiet,5211983,Pacome Dadiet,,,,,'06mkh,Pacome Dadiet,1642359
 2733,Alex Sarr,10294,Alex Sarr,5160992,Alex Sarr,29275372,Alex Sarr,120000,Alexandre Sarr,'06mju,Alex Sarr,1642259
 2734,Nikola Topić,10301,Nikola Topić,5159925,Nikola Topic,29275375,Nikola Topic,,,'06mk4,Nikola Topic,1642260
 2736,Tidjane Salaün,10295,Tidjane Salaün,5211176,Tidjane Salaun,29333998,Tidjane Salaun,,,'06mjy,Tidjane Salaun,1642275
 2737,Zaccharie Risacher,10296,Zaccharie Risacher,5211175,Zaccharie Risacher,29275376,Zaccharie Risacher,120005,Zaccharie Risacher,'06mjt,Zaccharie Risacher,1642258
 2738,AJ Johnson,10300,AJ Johnson,5170947,AJ Johnson,29379643,AJ Johnson,120037,AJ Johnson,'06mkf,AJ Johnson,1642358
-2741,Kevin McCullar,,,,,,,,,'06mm2,Kevin McCullar,1641755
+2741,Kevin McCullar,,,4411057,Kevin McCullar Jr.,,,,,'06mm2,Kevin McCullar,1641755
 2742,Tyler Kolek,10314,Tyler Kolek,4433225,Tyler Kolek,26541829,Tyler Kolek,,,'06mlg,Tyler Kolek,1642278
 2743,Ariel Hukporti,10317,Ariel Hukporti,4871141,Ariel Hukporti,,,120070,Ariel Hukporti,'06mm4,Ariel Hukporti,1630574
 2744,Johnny Furphy,10305,Johnny Furphy,5157066,Johnny Furphy,29234623,Johnny Furphy,120021,Johnny Furphy,'06mlh,Johnny Furphy,1642277
@@ -1560,7 +1560,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2774,DJ Burns,,,,,,,,,'06mm9,DJ Burns,
 2775,Reece Beekman,10332,Reece Beekman,4432187,Reece Beekman,3178543,Reece Beekman,120058,Reece Beekman,'06mmb,Reece Beekman,1641736
 2776,Daniss Jenkins,10316,Daniss Jenkins,5107199,Daniss Jenkins,,,,,'06mmf,Daniss Jenkins,1642450
-2777,Blake Hinson,,,,,,,,,'06mmd,Blake Hinson,
+2777,Blake Hinson,,,4396963,Blake Hinson,,,,,'06mmd,Blake Hinson,
 2778,Jalen Bridges,10309,Jalen Bridges,4432946,Jalen Bridges,3147931,Jalen Bridges,,,'06mma,Jalen Bridges,1641779
 2779,Isaiah Crawford,10320,Isaiah Crawford,4592857,Isaiah Crawford,3141683,Isaiah Crawford,,,'06mmg,Isaiah Crawford,1642384
 2780,Isaac Jones,10341,Isaac Jones,5107818,Isaac Jones,28956107,Isaac Jones,120082,Isaac Jones,'06mmh,Isaac Jones,1642403
@@ -1579,12 +1579,12 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2794,Santiago Vescovi,,,,,,,,,'06mo3,Santiago Vescovi,
 2795,Christian Terrell,,,,,,,,,'06mo4,Christian Terrell,
 2796,Mohamed Diarra,,,,,,,,,'06mo7,Mohamed Diarra,
-2797,Jackson Rowe,10358,Jackson Rowe,,,,,120194,Jackson Rowe,'06mo8,Jackson Rowe,1642050
+2797,Jackson Rowe,10358,Jackson Rowe,4066889,Jackson Rowe,,,120194,Jackson Rowe,'06mo8,Jackson Rowe,1642050
 2798,Mantas Rubstavicius,,,,,,,,,'06mo9,Mantas Rubstavicius,
 2799,Roman Sorkin,,,,,,,,,'06moa,Roman Sorkin,
 2800,Jimmy Whitt,,,,,,,,,'06mo5,Jimmy Whitt,
 2801,Sean East,,,,,,,,,'06mo6,Sean East,
-2802,Quincy Olivari,,,,,,,,,'06mob,Quincy Olivari,
+2802,Quincy Olivari,,,4432070,Quincy Olivari,,,,,'06mob,Quincy Olivari,
 2803,Grayson Murphy,,,,,,,,,'06moc,Grayson Murphy,
 2804,Luke Avdalovic,,,,,,,,,'06mod,Luke Avdalovic,
 2805,Yauhen Massalski,,,,,,,,,'06moe,Yauhen Massalski,
@@ -1600,14 +1600,14 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2815,Jamuni McNeace,,,,,,,,,'06mom,Jamuni McNeace,
 2816,Lance Jones,,,,,,,,,'06mon,Lance Jones,
 2817,Trey Woodbury,,,,,,,,,'06moq,Trey Woodbury,
-2818,David Jones-Garcia,10372,David Jones-Garcia,4713010,David Jones-Garcia,,,,,,,
+2818,David Jones Garcia,10372,David Jones-Garcia,4713010,David Jones Garcia,,,,,,,
 2819,Keve Aluma,,,,,,,,,'06mos,Keve Aluma,
 2820,Max Fiedler,,,,,,,,,'06mot,Max Fiedler,
 2821,Judah Mintz,,,,,,,,,'06mou,Judah Mintz,
 2822,Jordan Tucker,,,,,,,,,'06mov,Jordan Tucker,
 2823,Joirdon Nicholas,,,,,,,,,'06moy,Joirdon Nicholas,
 2824,Neal Sako,,,,,,,,,'06moz,Neal Sako,
-2825,Isaiah Stevens,10383,Isaiah Stevens,,,3148107,Isaiah Stevens,,,'06mp0,Isaiah Stevens,1641815
+2825,Isaiah Stevens,10383,Isaiah Stevens,4432117,Isaiah Stevens,3148107,Isaiah Stevens,,,'06mp0,Isaiah Stevens,1641815
 2826,JC Butler,,,,,,,,,'06mp1,JC Butler,
 2827,Trey Alexander,10385,Trey Alexander,4433268,Trey Alexander,,,,,'06mp4,Trey Alexander,1641725
 2828,Keisei Tominaga,,,,,,,,,'06mpg,Keisei Tominaga,
@@ -1618,8 +1618,8 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2833,Spencer Jones,10393,Spencer Jones,4592427,Spencer Jones,,,,,'06nv9,Spencer Jones,1642461
 2834,Jamarion Sharp,,,,,,,,,'06nz5,Jamarion Sharp,
 2835,Matas Buzelis,10265,Matas Buzelis,4711294,Matas Buzelis,29275373,Matas Buzelis,120011,Matas Buzelis,'06mk3,Matas Buzelis,1641824
-2836,Ronald Holland,,,,,,,,,,,1641842
-2837,Bobi Klintman,10331,Bobi Klintman,5105340,Bobi Klintman,,,,,'06mlj,Bobi Klintman,1641752
+2836,Ronald Holland,,,4683771,Ronald Holland II,,,,,,,1641842
+2837,Bobi Klintman,10331,Bobi Klintman,4906923,Bobi Klintman,,,,,'06mlj,Bobi Klintman,1641752
 2838,Trentyn Flowers,10395,Trentyn Flowers,5165257,Trentyn Flowers,,,,,'06pfe,Trentyn Flowers,1642280
 2839,Yongxi Cui,,,5159486,Yongxi Cui,,,,,'06ppp,Yongxi Cui,
 4760,Cooper Flagg,10468,Cooper Flagg,5041939,Cooper Flagg,29556534,Cooper Flagg,120207,Cooper Flagg,'06v5l,Cooper Flagg,
@@ -1628,7 +1628,7 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 4737,VJ Edgecombe,10454,VJ Edgecombe,5124612,VJ Edgecombe,29556603,VJ Edgecombe,120210,VJ Edgecombe,'06v5k,VJ Edgecombe,
 4740,Kon Knueppel,10450,Kon Knueppel,5061575,Kon Knueppel,29558754,Kon Knueppel,120214,Kon Knueppel,'06v5n,Kon Knueppel,
 4761,Khaman Maluach,10447,Khaman Maluach,5203685,Khaman Maluach,,,120213,Khaman Maluach,'06v5f,Khaman Maluach,
-4744,Egor Demin,10445,Egor Demin,5243213,Egor Demin,29556852,Egor Demin,120218,Egor Demin,'06v5r,Egor Demin,
+4744,Egor Dëmin,10445,Egor Demin,5175643,Egor Demin,29556852,Egor Demin,120218,Egor Demin,'06v5r,Egor Demin,
 4751,Derik Queen,10444,Derik Queen,4869780,Derik Queen,29559183,Derik Queen,120216,Derik Queen,'06v5h,Derik Queen,
 4738,Tre Johnson,10448,Tre Johnson,5238230,Tre Johnson,29559402,Tre Johnson,120212,Tre Johnson,'06v58,Tre Johnson,
 4755,Collin Murray-Boyles,10443,Collin Murray-Boyles,5093267,Collin Murray-Boyles,29231106,Collin Murray-Boyles,120217,Collin Murray-Boyles,'06v5a,Collin Murray-Boyles,
@@ -1646,16 +1646,16 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 4749,Asa Newell,10451,Asa Newell,4873201,Asa Newell,29559855,Asa Newell,120223,Asa Newell,'06v5c,Asa Newell,
 4791,Rasheer Fleming,10495,Rasheer Fleming,5105977,Rasheer Fleming,28955369,Rasheer Fleming,120237,Rasheer Fleming,'06v72,Rasheer Fleming,
 4743,Danny Wolf,10456,Danny Wolf,5107173,Danny Wolf,28955798,Danny Wolf,120221,Danny Wolf,'06v5q,Danny Wolf,
-4757,Walter Clayton,,,,,26775614,Walter Clayton Jr.,,,'06v56,Walter Clayton,
-4742,Nolan Traoré,10455,Nolan Traoré,5279130,Nolan Traore,29596185,Nolan Traore,120231,Nolan Traoré,'06v5p,Nolan Traore,
+4757,Walter Clayton,,,4896372,Walter Clayton Jr.,26775614,Walter Clayton Jr.,,,'06v56,Walter Clayton,
+4742,Nolan Traore,10455,Nolan Traoré,5279130,Nolan Traore,29596185,Nolan Traore,120231,Nolan Traoré,'06v5p,Nolan Traore,
 4765,Jase Richardson,10453,Jase Richardson,5239561,Jase Richardson,29557818,Jase Richardson,120219,Jase Richardson,'06v5j,Jase Richardson,
 4756,Yanic Konan Niederhäuser,10441,Yanic Konan Niederhäuser,5108024,Yanic Konan Niederhauser,,,,,'06v5b,Yanic Konan Niederhauser,
 4774,Johni Broome,10474,Johni Broome,4433569,Johni Broome,26541715,Johni Broome,120241,Johni Broome,'06v81,Johni Broome,
 4781,Adou Thiero,10488,Adou Thiero,5060631,Adou Thiero,28956011,Adou Thiero,120238,Adou Thiero,'06v82,Adou Thiero,
 4770,Kam Jones,10487,Kam Jones,4697268,Kam Jones,26778506,Kam Jones,,,'06v84,Kam Jones,
 4794,Noah Penda,10479,Noah Penda,5214637,Noah Penda,29666168,Noah Penda,120242,Noah Penda,'06v7y,Noah Penda,
-4804,Caleb Love,10508,Caleb Love,,,,,,,'06vy3,Caleb Love,
-4808,Ryan Nembhard,10511,Ryan Nembhard,,,,,,,'06y3q,Ryan Nembhard,
+4804,Caleb Love,10508,Caleb Love,4433144,Caleb Love,,,,,'06vy3,Caleb Love,
+4808,Ryan Nembhard,10511,Ryan Nembhard,4433629,Ryan Nembhard,,,,,'06y3q,Ryan Nembhard,
 4746,Ben Saraf,10458,Ben Saraf,5242502,Ben Saraf,29596186,Ben Saraf,,,'06v5t,Ben Saraf,
 4741,Liam McNeeley,10446,Liam McNeeley,5239590,Liam McNeeley,29557974,Liam McNeeley,120224,Liam McNeeley,'06v5o,Liam McNeeley,
 4739,Will Riley,10449,Will Riley,5144126,Will Riley,29557611,Will Riley,120220,Will Riley,'06v59,Will Riley,
@@ -1664,37 +1664,37 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 4778,Sion James,10498,Sion James,4602025,Sion James,26560014,Sion James,120246,Sion James,'06v7z,Sion James,
 4768,Tyrese Proctor,10472,Tyrese Proctor,5023693,Tyrese Proctor,,,,,'06v8f,Tyrese Proctor,
 4752,Hugo González,10459,Hugo González,5175647,Hugo Gonzalez,29596187,Hugo  Gonzalez,120232,Hugo González,'06v5d,Hugo Gonzalez,
-4809,CJ Huntley,10512,CJ Huntley,,,,,,,'06y4e,CJ Huntley,
+4809,CJ Huntley,10512,CJ Huntley,4702602,CJ Huntley,,,,,'06y4e,CJ Huntley,
 4745,Drake Powell,10457,Drake Powell,5037873,Drake Powell,29559675,Drake Powell,120228,Drake Powell,'06v5s,Drake Powell,
 4790,Koby Brea,10475,Koby Brea,4591259,Koby Brea,3177797,Koby Brea,,,'06v87,Koby Brea,
-4796,Mark Sears,10500,Mark Sears,,,,,,,'06vxt,Mark Sears,
+4796,Mark Sears,10500,Mark Sears,4703530,Mark Sears,,,,,'06vxt,Mark Sears,
 2872,Boo Buie,,,4592712,Boo Buie,,,,,'06qq7,Boo Buie,
 4810,Cameron Matthews,10513,Cameron Matthews,,,,,,,'06yb4,Cameron Matthews,
 2852,Marcus Domask,,,,,,,,,'06ptx,Marcus Domask,
-4795,Hunter Sallis,10499,Hunter Sallis,,,,,,,'06vxs,Hunter Sallis,
-2841,Nae'Qwan Tomlin,10397,Nae'Qwan Tomlin,,,,,120199,Nae'Qwan Tomlin,'06prl,NaeQwan Tomlin,1641772
+4795,Hunter Sallis,10499,Hunter Sallis,4433281,Hunter Sallis,,,,,'06vxs,Hunter Sallis,
+2841,Nae'Qwan Tomlin,10397,Nae'Qwan Tomlin,5106268,Nae'Qwan Tomlin,,,120199,Nae'Qwan Tomlin,'06prl,NaeQwan Tomlin,1641772
 4784,Amari Williams,10473,Amari Williams,4702745,Amari Williams,,,,,'06v8c,Amari Williams,
 4769,Saliou Niang,10481,Saliou Niang,5281137,Saliou Niang,29751298,Saliou Niang,,,'06va2,Saliou Niang,
-4806,Tamar Bates,10509,Tamar Bates,,,,,,,'06y0j,Tamar Bates,
+4806,Tamar Bates,10509,Tamar Bates,4683933,Tamar Bates,,,,,'06y0j,Tamar Bates,
 4792,Brooks Barnhizer,10478,Brooks Barnhizer,4684208,Brooks Barnhizer,,,,,'06v8a,Brooks Barnhizer,
-4802,Chucky Hepburn,10506,Chucky Hepburn,,,,,,,'06vy2,Chucky Hepburn,
-4805,Lachlan Olbrich,10482,Lachlan Olbrich,5107156,Lachlan Olbrich,,,,,'06vyb,Lachlan Olbrich,
-4799,Hunter Dickinson,10501,Hunter Dickinson,,,,,,,'06vxw,Hunter Dickinson,
-4807,Dylan Cardwell,10510,Dylan Cardwell,,,,,,,'06y2o,Dylan Cardwell,
+4802,Chucky Hepburn,10506,Chucky Hepburn,4590360,Chucky Hepburn,,,,,'06vy2,Chucky Hepburn,
+4805,Lachlan Olbrich,10482,Lachlan Olbrich,5091709,Lachlan Olbrich,,,,,'06vyb,Lachlan Olbrich,
+4799,Hunter Dickinson,10501,Hunter Dickinson,4432180,Hunter Dickinson,,,,,'06vxw,Hunter Dickinson,
+4807,Dylan Cardwell,10510,Dylan Cardwell,4433174,Dylan Cardwell,,,,,'06y2o,Dylan Cardwell,
 4787,Kobe Sanders,10470,Kobe Sanders,4702352,Kobe Sanders,,,,,'06v8g,Kobe Sanders,
-4798,Eli John Ndiaye,10502,Eli John Ndiaye,,,,,,,'06vy0,Eli John Ndiaye,
+4798,Eli John Ndiaye,10502,Eli John Ndiaye,5144071,Eli John Ndiaye,,,,,'06vy0,Eli John Ndiaye,
 4800,RJ Luis,,,,,,,,,'06vxz,RJ Luis,
 4772,Alex Toohey,10484,Alex Toohey,5170949,Alex Toohey,29727922,Alex Toohey,,,'06v8i,Alex Toohey,
 4801,Eric Dixon,10507,Eric Dixon,,,,,,,'06vy1,Eric Dixon,
 4782,Jahmai Mashack,10491,Jahmai Mashack,4683934,Jahmai Mashack,,,,,'06vxq,Jahmai Mashack,
-4803,Vladislav Goldin,10505,Vladislav Goldin,,,,,,,'06vxy,Vladislav Goldin,
+4803,Vladislav Goldin,10505,Vladislav Goldin,4700818,Vladislav Goldin,,,,,'06vxy,Vladislav Goldin,
 4789,Bogoljub Marković,10477,Bogoljub Marković,5214989,Bogoljub Markovic,29727925,Bogoljub Markovic,,,'06v8d,Bogoljub Markovic,
 4780,Javon Small,10494,Javon Small,4781746,Javon Small,,,,,'06v8e,Javon Small,
 4773,Will Richard,10485,Will Richard,4897262,Will Richard,,,,,'06v8p,Will Richard,
-4797,Miles Kelly,10504,Miles Kelly,,,,,,,'06vxx,Miles Kelly,
+4797,Miles Kelly,10504,Miles Kelly,4696317,Miles Kelly,,,,,'06vxx,Miles Kelly,
 2848,Kylor Kelley,,,3950760,Kylor Kelley,,,120151,Kylor Kelley,'06pst,Kylor Kelley,
 4775,Jamir Watkins,10489,Jamir Watkins,4606840,Jamir Watkins,,,,,'06v89,Jamir Watkins,
-2863,Tolu Smith,10418,Tolu Smith,,,,,120190,Tolu Smith,'06pwq,Tolu Smith,1642449
+2863,Tolu Smith,10418,Tolu Smith,4397882,Tolu Smith,,,120190,Tolu Smith,'06pwq,Tolu Smith,1642449
 4788,John Tonje,10493,John Tonje,4593043,John Tonje,,,,,'06v8j,John Tonje,
 4779,Rocco Zikarsky,10480,Rocco Zikarsky,5157587,Rocco Zikarsky,,,,,'06v8b,Rocco Zikarsky,
 2859,Yuki Kawamura,10415,Yuki Kawamura,5159895,Yuki Kawamura,,,120158,Yuki Kawamura,'06pvy,Yuki Kawamura,1642530
@@ -1702,43 +1702,163 @@ sleeper_id,sleeper_name,yahoo_id,yahoo_name,espn_id,espn_name,cbs_id,cbs_name,ha
 2843,Galen Robinson,,,,,,,,,'06prj,Galen Robinson,
 4735,Phillip Wheeler,,,,,,,,,'06rur,Phillip Wheeler,
 4734,Marcus Bagley,,,,,3178277,Marcus Bagley,120205,Marcus Bagley,'06rui,Marcus Bagley,
-2853,Keion Brooks,,,,,3141902,Keion Brooks Jr.,,,'06pty,Keion Brooks,1631232
+2853,Keion Brooks,,,4431689,Keion Brooks Jr.,3141902,Keion Brooks Jr.,,,'06pty,Keion Brooks,1631232
 2858,Armando Bacot,,,,,,,,,'06pvx,Armando Bacot,
 2870,Taylor Funk,,,,,,,,,'06qf9,Taylor Funk,
 2862,Boogie Ellis,,,,,,,,,'06pw5,Boogie Ellis,
 2856,Cormac Ryan,,,,,,,,,'06pvt,Cormac Ryan,
 2855,Malevy Leons,10411,Malevy Leons,,,,,,,'06pvs,Malevy Leons,
-4816,RJ Davis,10520,RJ Davis,,,,,,,'06z7u,RJ Davis,
+4816,R.J. Davis,10520,RJ Davis,,,,,,,'06z7u,RJ Davis,
 4815,Arthur Kaluma,10519,Arthur Kaluma,,,,,,,'06z7t,Arthur Kaluma,
-4814,Augustas Marciulionis,10518,Augustas Marciulionis,,,,,,,'06z7s,Augustas Marciulionis,
-4813,Myron Gardner,10517,Myron Gardner,,,,,,,'06z61,Myron Gardner,
-4812,Chris Mañon,10516,Chris Mañon,,,,,,,'06z4q,Chris Manon,
-4811,Curtis Jones,10515,Curtis Jones,,,,,,,'06yzq,Curtis Jones,
+4814,Augustas Marčiulionis,10518,Augustas Marciulionis,,,,,,,'06z7s,Augustas Marciulionis,
+4813,Myron Gardner,10517,Myron Gardner,4431772,Myron Gardner,,,,,'06z61,Myron Gardner,
+4812,Chris Mañon,10516,Chris Mañon,4702972,Chris Manon,,,,,'06z4q,Chris Manon,
+4811,Curtis Jones,10515,Curtis Jones,4898369,Curtis Jones,,,,,'06yzq,Curtis Jones,
 4785,Max Shulga,10483,Max Shulga,4701992,Max Shulga,3177703,Max Shulga,,,'06va1,Max Shulga,
 4771,Taelon Peter,10492,Taelon Peter,4703421,Taelon Peter,,,,,'06vxp,Taelon Peter,
 4767,Mohamed Diawara,10471,Mohamed Diawara,5289900,Mohamed Diawara,29751299,Mohamed Diawara,,,'06v8h,Mohamed Diawara,
 4766,Lachlan - DUP Olbrich - DUP,,,,,,,,,,,
 4733,Taran Armstrong,10435,Taran Armstrong,,,,,,,'06rph,Taran Armstrong,1642379
-2871,Josh Oduro,,,,,,,,,'06qfk,Josh Oduro,
+4873,Cameron Boozer,,,5041935,Cameron Boozer,,,,,,,
+4882,Darryn Peterson,,,5041955,Darryn Peterson,,,,,,,
+4866,AJ Dybantsa,,,5142718,AJ Dybantsa,,,,,,,
+4862,Caleb Wilson,,,5095151,Caleb Wilson,,,,,,,
+4871,Mikel Brown,,,5101761,Mikel Brown Jr.,,,,,,,
+4864,Yaxel Lendeborg,,,5175737,Yaxel Lendeborg,,,,,,,
+4876,Kingston Flemings,,,5149077,Kingston Flemings,,,,,,,
+4885,Morez Johnson,,,4873153,Morez Johnson Jr.,,,,,,,
+4891,Darius Acuff,,,5142620,Darius Acuff Jr.,,,,,,,
+4881,Keaton Wagler,,,5254165,Keaton Wagler,,,,,,,
+4888,Aday Mara,,,5174983,Aday Mara,,,,,,,
+4883,Brayden Burries,,,5082206,Brayden Burries,,,,,,,
+4884,Nate Ament,,,5164559,Nate Ament,,,,,,,
+4875,Zuby Ejiofor,,,5106262,Zuby Ejiofor,,,,,,,
+4874,Cameron Carr,,,5113969,Cameron Carr,,,,,,,
+4869,Hannes Steinbach,,,5281370,Hannes Steinbach,,,,,,,
+4913,Baba Miller,,,5075626,Baba Miller,,,,,,,
+4890,Alex Karaban,,,4917149,Alex Karaban,,,,,,,
+4878,Tarris Reed,,,5105809,Tarris Reed Jr.,,,,,,,
+4920,Josh Dix,,,,,,,,,,,
+4870,Joshua Jefferson,,,4870564,Joshua Jefferson,,,,,,,
+4865,Labaron Philon,,,4873090,Labaron Philon Jr.,,,,,,,
+4880,Allen Graves,,,5149115,Allen Graves,,,,,,,
+4863,Dailyn Swain,,,4848625,Dailyn Swain,,,,,,,
+4889,Bennett Stirtz,,,5241364,Bennett Stirtz,,,,,,,
+4926,Peter Suder,,,,,,,,,,,
+4868,Christian Anderson,,,5060701,Christian Anderson,,,,,,,
+4847,Kadary Richmond,,,,,,,,,,,
+4923,Bryce Hopkins,,,4565698,Bryce Hopkins,,,,,,,
+4834,Fanbo Zeng,,,,,,,,,,,
+4910,Jaden Bradley,,,4432737,Jaden Bradley,,,,,,,
+4915,Ryan Conwell,,,5107157,Ryan Conwell,,,,,,,
+4919,Otega Oweh,,,5106270,Otega Oweh,,,,,,,
+4867,Ebuka Okorie,,,5258459,Ebuka Okorie,,,,,,,
+4900,Isaiah Evans,,,5061585,Isaiah Evans,,,,,,,
+4917,Tobi Lawal,,,5106040,Tobi Lawal,,,,,,,
+4895,Meleek Thomas,,,5041951,Meleek Thomas,,,,,,,
+4909,Maliq Brown,,,5105337,Maliq Brown,,,,,,,
+4921,Emanuel Sharp,,,5106058,Emanuel Sharp,,,,,,,
+4827,Igor Milicic,,,,,,,,,,,
+4833,Matthew Murrell,,,,,,,,,,,
+4879,Jayden Quaintance,,,5101845,Jayden Quaintance,,,,,,,
+4904,Bruce Thornton,,,5105837,Bruce Thornton,,,,,,,
+4877,Chris Cenac,,,5142621,Chris Cenac Jr.,,,,,,,
+4851,Julian Reese,,,4683742,Julian Reese,,,,,,,
+4887,Koa Peat,,,5041953,Koa Peat,,,,,,,
+4822,Lawson Lovering,,,4596528,Lawson Lovering,,,,,,,
+4846,Lamont Butler,,,,,,,,,,,
+4872,Karim Lopez,,,5231919,Karim Lopez,,,,,,,
+4905,Henri Veesaar,,,5105571,Henri Veesaar,,,,,,,
+4818,Moussa Cisse,,,4701208,Moussa Cisse,,,,,,,
+4836,Jahmyl Telfort,,,4702785,Jahmyl Telfort,,,,,,,
+4830,Chris Youngblood,,,4706557,Chris Youngblood,,,,,,,
+4856,Andersson Garcia,,,,,,,,,,,
+4886,Sergio De Larrea,,,5279129,Sergio de Larrea,,,,,,,
+4922,Trevon Brazile,,,4698719,Trevon Brazile,,,,,,,
+4902,Richie Saunders,,,5105462,Richie Saunders,,,,,,,
+4927,Tobe Awaka,,,,,,,,,,,
+4918,Vsevolod Ishchenko,,,5358755,Vsevolod Ishchenko,,,,,,,
+4928,Jaylin Sellers,,,,,,,,,,,
+4911,Nick Martinelli,,,5105832,Nick Martinelli,,,,,,,
+4840,Saint Thomas,,,,,,,,,,,
+4893,Tyler Nickel,,,4838721,Tyler Nickel,,,,,,,
+4929,Rafael Castro,,,,,,,,,,,
+4899,Tyler Bilodeau,,,5105626,Tyler Bilodeau,,,,,,,
+4898,Felix Okpara,,,5105841,Felix Okpara,,,,,,,
+4892,Jack Kayil,,,5234862,Jack Kayil,,,,,,,
+4908,Ja'Kobi Gillespie,,,5107968,Ja'Kobi Gillespie,,,,,,,
+4914,Tre Donaldson,,,,,,,,,,,
+4896,Braden Smith,,,5105854,Braden Smith,,,,,,,
+4907,Dillon Mitchell,,,5106283,Dillon Mitchell,,,,,,,
+4861,Hayden Gray,,,,,,,,,,,
+4828,DJ Rodman,,,,,,,,,,,
+4906,Jaron Pierre,,,4703115,Jaron Pierre Jr.,,,,,,,
+4932,Michael Ajayi,,,,,,,,,,,
+4925,Quadir Copeland,,,,,,,,,,,
+4901,Trey Kaufman-Renn,,,4897438,Trey Kaufman-Renn,,,,,,,
+4897,Lajae Jones,,,5108969,Lajae Jones,,,,,,,
+4894,Ugonna Onyenso,,,5037878,Ugonna Onyenso,,,,,,,
+4857,Bez Mbeng,,,,,,,,,,,
+4820,Norchad Omier,,,4702134,Norchad Omier,,,,,,,
+4850,Isaih Moore,,,,,,,,,,,
+4858,Adama Bal,,,,,,,,,,,
+4821,Chaney Johnson,,,5174655,Chaney Johnson,,,,,,,
+4838,LJ Cryer,,,,,,,,,,,
+4844,Gabe Madsen,,,,,,,,,,,
+4826,John Poulakidas,,,,,,,,,,,
+4829,Steven Crowl,,,,,,,,,,,
+4845,Alex Antetokounmpo,,,4432452,Alex Antetokounmpo,,,,,,,
+4824,Keshon Gilbert,,,,,,,,,,,
+4841,Johnell Davis,,,,,,,,,,,
+4854,Payton Sandfort,,,,,,,,,,,
+4848,Steve Settle,,,,,,,,,,,
+4825,Jonathan Pierre,,,,,,,,,,,
+4823,Tyler Burton,,,,,,,,,,,
+4839,Dain Dainja,,,,,,,,,,,
+4817,Tyrese Samuel,,,,,,,,,,,
+4819,Matthew Cleveland,,,,,,,,,,,
+4831,Zack Austin,,,,,,,,,,,
+4832,Christian Shumate,,,,,,,,,,,
+4835,Dawson Garcia,,,,,,,,,,,
+4837,Brice Williams,,,,,,,,,,,
+4842,Mitch Mascari,,,,,,,,,,,
+4843,Daniel Batcho,,,,,,,,,,,
+4849,Darius Brown,,,,,,,,,,,
+4852,Sean Pedulla,,,,,,,,,,,
+4853,Grant Nelson,,,,,,,,,,,
+4855,Jayson Kent,,,,,,,,,,,
+4859,Toby Okani,,,,,,,,,,,
+4860,Tyreke Key,,,,,,,,,,,
+4903,AK Okereke,,,,,,,,,,,
+4912,Narcisse Ngoy,,,5363895,Narcisse Ngoy,,,,,,,
+4916,Malique Lewis,,,5184016,Malique Lewis,,,,,,,
+4924,Izaiyah Nelson,,,5107251,Izaiyah Nelson,,,,,,,
+4930,Carson Cooper,,,,,,,,,,,
+4931,Ernest Udeh,,,,,,,,,,,
+4933,Kylan Boswell,,,,,,,,,,,
+4934,Alpha Diallo,,,,,,,,,,,
+4935,Terrell Brown,,,,,,,,,,,
+4936,Kobe Stewart,,,,,,,,,,,
+2871,Josh Oduro,,,4432068,Josh Oduro,,,,,'06qfk,Josh Oduro,
 2869,Trhae Mitchell,,,,,,,,,'06qf7,Trhae Mitchell,
 2868,Warren Washington,,,,,,,,,'06qf5,Warren Washington,
-2867,Elijah Harkless,10423,Elijah Harkless,,,,,,,'06qdz,Elijah Harkless,1641989
+2867,Elijah Harkless,10423,Elijah Harkless,4397449,Elijah Harkless,,,,,'06qdz,Elijah Harkless,1641989
 2866,Erik Stevenson,,,,,,,,,'06qdx,Erik Stevenson,
 2865,Miller Kopp,,,,,,,,,'06q9l,Miller Kopp,
 2864,Aaron Estrada,,,,,,,,,'06q8b,Aaron Estrada,
 2861,James Akinjo,,,,,,,,,'06pw4,James Akinjo,
-2860,RayJ Dennis,10416,RayJ Dennis,,,,,120136,RayJ Dennis,'06pw1,RayJ Dennis,1642484
+2860,RayJ Dennis,10416,RayJ Dennis,4431941,RayJ Dennis,,,120136,RayJ Dennis,'06pw1,RayJ Dennis,1642484
 2857,Alex Reese,10413,Alex Reese,,,,,,,'06pvu,Alex Reese,1642024
-2854,Emanuel Miller,10410,Emanuel Miller,,,3149113,Emanuel Miller,,,'06pu0,Emanuel Miller,1641801
+2854,Emanuel Miller,10410,Emanuel Miller,4432872,Emanuel Miller,3149113,Emanuel Miller,,,'06pu0,Emanuel Miller,1641801
 2851,Max Abmas,,,,,,,,,'06ptq,Max Abmas,
 2850,Moses Wood,,,,,,,,,'06ptn,Moses Wood,
 2849,Tyler Polley,,,,,,,,,'06psv,Tyler Polley,
 2847,Jaedon LeDee,,,,,,,,,'06psp,Jaedon LeDee,
-2846,Jahmir Young,10402,Jahmir Young,,,,,,,'06ps5,Jahmir Young,1642443
+2846,Jahmir Young,10402,Jahmir Young,4433133,Jahmir Young,,,,,'06ps5,Jahmir Young,1642443
 2845,Jaylin Williams,,,,,,,,,,,
 2844,Gabe McGlothan,,,,,,,,,'06prn,Gabe McGlothan,
 2842,Gabe Osabuohien,,,,,,,,,'06prm,Gabe Osabuohien,
-2840,Tristan Enaruna,,,,,,,,,'06prk,Tristan Enaruna,
+2840,Tristan Enaruna,,,4431734,Tristan Enaruna,,,,,'06prk,Tristan Enaruna,
 2154,Tyrell Terry,,,,,,,,,'05qth,Tyrell Terry,
 1867,Caleb Swanigan,,,,,,,,,'04ewq,Caleb Swanigan,
 1820,Xavier Silas,,,,,,,,,,,
